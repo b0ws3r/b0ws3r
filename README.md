@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, scikit/tensorflow, and the world of Azure Cloud Services/dotnet/c#
 - 🌱 I’m currently learning about conv nets and transformers
 - 💞️ I’m looking to collaborate on ML model validation and tuning 
-- 📫 How to reach me - with a sock grabber
+- 📫 How to reach me - with a sock grabber, or on [LinkedIn](www.linkedin.com/in/melissa-westland-027281b4)
 
 <!---
 b0ws3r/b0ws3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
